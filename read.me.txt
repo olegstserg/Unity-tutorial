@@ -1,0 +1,1 @@
+In this tutorial, I got familiar with Unity's interface, learned how to manage in-game objects, effects, sounds, animations, characters, and how to save a project.
